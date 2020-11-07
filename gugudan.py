@@ -3,3 +3,5 @@ def print_2(x):
         print('{} * {} = {}'.format(x, i, x*i))
 
 print_2(2)
+
+#주석
